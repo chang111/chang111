@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Healthcare AI
 - 🌱 I’m currently learning machine learning and clinical trial
-- 👯 I’m looking to collaborate on National University of Singapore
+- 👯 I’m looking to collaborate on AI Healthcare related topics
 - 🤔 I’m looking for help with IoT
-- 💬 Ask me about Digital Health Question
+- 💬 Ask me about Digital Health Related Question
 - 📫 How to reach me: changjiangeng1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
