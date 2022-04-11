@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning machine learning and clinical trial
 - 👯 I’m looking to collaborate on AI Healthcare related topics
 - 🤔 I’m looking for help with IoT
-- 💬 Ask me about Digital Health Related Question
+- 💬 Ask me about Digital Healthcare Related Question
 - 📫 How to reach me: changjiangeng1@gmail.com
 - 😄 Pronouns: Contributor to RADAR-IoT, PyMC3
 - ⚡ Fun fact: Pursuing PhD degree in NUS
