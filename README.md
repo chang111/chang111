@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with IoT
 - 💬 Ask me about Digital Health Related Question
 - 📫 How to reach me: changjiangeng1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Contributor to RADAR-IoT, PyMC3
+- ⚡ Fun fact: Pursuing PhD degree in NUS
 
 [![Jiangeng's github stats](https://github-readme-stats.vercel.app/api?username=chang111)](https://github.com/chang111/github-readme-stats)
 
