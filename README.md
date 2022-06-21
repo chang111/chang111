@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Healthcare AI
 - 🌱 I’m currently learning machine learning and clinical trial
 - 👯 I’m looking to collaborate on AI Healthcare related topics
-- 🤔 I’m looking for help with IoT
+- 🤔 I’m looking for help with Healthcare
 - 💬 Ask me about Digital Healthcare Related Question
 - 📫 How to reach me: changjiangeng1@gmail.com
 - 😄 Pronouns: Contributor to RADAR-IoT, PyMC3
